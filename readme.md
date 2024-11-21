@@ -54,7 +54,7 @@ In this case the query is the number after the night bot command. If your Nightb
 
 ## Data Source
 
-Data source: I honestly can't remember where I got this data from, but it was turned first into JSON data, and then a constant by painstakingly entering it via web page text. If you find an error in the data, please open an issue. If you think I stole your data, please let me know and I will credit you.
+Data source: I honestly can't remember where I got this data from, but it was turned first into JSON data, and then a constant by painstakingly entering it via web page text. If you find an error in the data, please open an issue. If you think I stole your data, please let me know and I will credit you. I originally used a much more complex JSON data for a previous version of this. [Old data](https://gist.github.com/smykes/5b845fb016901e86a6d46226c15ebc22)
 
 More about the Geological Time Scale can be read on [Wikipedia](https://en.wikipedia.org/wiki/Geologic_time_scale).
 
