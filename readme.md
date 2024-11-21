@@ -6,6 +6,9 @@ This was originally written as a [Nightot](https://nightbot.tv/) command for the
 
 This is a lambda function for deployment on [Netlify](https://netlify.com). If you want to test this locally you should install the [Netlify CLI tool](https://docs.netlify.com/cli/get-started/).
 
+## TODO
+Figure out how to write unit tests for a lambda function like this.
+
 ## Usage
 
 ### Query Parameter Explanation
