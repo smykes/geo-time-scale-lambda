@@ -1,13 +1,11 @@
 {
   "name": "geo-time-scale-lambda",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "A tool to print the eon, era, period, epoch, and age of a given positive whole number.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jeff Smykil",
   "dependencies": {
     "@netlify/functions": "^2.8.2"
   }
